@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 3 elements to &apos;noname/src&apos;&#x0A;- Original project: &apos;noname&apos;&#x0A;- Destination element: &apos;noname/src&apos;&#x0A;- Original elements:&#x0A;     day1&#x0A;     day3&#x0A;     day5&#x0A;- Update references to refactored element" description="Move folders" destination="/src" element1="IntroToJavaWorkshop-master/src/day1" element2="IntroToJavaWorkshop-master/src/day3" element3="IntroToJavaWorkshop-master/src/day5" files="0" flags="589830" folders="3" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1460060924427" units="0" version="1.0"/>
+</session>
